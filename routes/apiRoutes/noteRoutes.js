@@ -1,4 +1,3 @@
-//https://expressjs.com/en/guide/routing.html routing = how app end points respond to client request
 const router = require("express").Router();
 
 const {

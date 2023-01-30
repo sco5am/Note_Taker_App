@@ -5,15 +5,15 @@
 ## Description
 For this assigment i was tasked with creating an App that could write and save notes using an express.js back end. The user will start at the landing page, select the "get started" button, and from there they will see saved notes on the left side of the page and a space to enter new notes. These notes are stored and retrieved from a JSON file using routes created using express.js. 
 
-This assignment helped me to better familerize myself with express.js, specifically creating GET and POST routes.
+This assignment helped me to better familiarize myself with express.js, specifically creating GET and POST routes.
 
 
 ## Usage
-This application can be run on the command line, and initialized by typing "node .".
+This application can be viewed at the following link https://damp-island-37114.herokuapp.com/.
 
 A video walkthrough of the apps functionallity can be viewed below.
 
-![alt text]()
+![alt text](./public/assets/note%20taker.gif)
     
 
 ## License
